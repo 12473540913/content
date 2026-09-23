@@ -52,7 +52,7 @@
       <td><strong>eFoodHandler Basic Safety Course</strong></td>
       <td><em><a href="https://www.tpctraining.com">TCP</a></em></td>
       <td>----</td>
-      <td></td>
+      <td><img src="logos/efh.png" width="50"/></td>
       <td><em><a href="https://www.efoodhandlers.com">efood Handlers</a></em></td>
       <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/efoodHandler1.pdf">2021</a></em></td>
       <td><a>link</a></td>
