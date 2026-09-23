@@ -46,5 +46,16 @@
       <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/Analyzing and Visualizing Data with Power BI.pdf">2022</a></em></td>
       <td><a>link</a></td>
     </tr>
+     <!-- Food Handler -->
+    <tr>
+      <td><img src="logos/tcp.png" width="50"/></td>
+      <td><strong>eFoodHandler Basic Safety Course</strong></td>
+      <td><em><a href="https://www.tpctraining.com">TCP</a></em></td>
+      <td>----</td>
+      <td></td>
+      <td><em><a href="https://www.efoodhandlers.com">efood Handlers</a></em></td>
+      <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/efoodHandler1.pdf">2021</a></em></td>
+      <td><a>link</a></td>
+    </tr>
   </tbody>
 </table>
