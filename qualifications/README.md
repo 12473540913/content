@@ -49,7 +49,7 @@
      <!-- Food Handler -->
     <tr>
       <td><img src="logos/tcp.png" width="50"/></td>
-      <td><strong>eFoodHandler Basic Safety Course</strong></td>
+      <td><strong><a href="https://www.efoodhandlers.com/Food-Handlers/">eFoodHandler Basic Safety Course</strong></td>
       <td><em><a href="https://www.tpctraining.com">TCP</a></em></td>
       <td>----</td>
       <td><img src="logos/efh.png" width="50"/></td>
