@@ -4,18 +4,18 @@
   <tbody>
         <!-- WHMIS -->
     <tr>
-      <td><img /></td>
-      <td><strong><a target="_blank" rel="noopener noreferrer">WHMIS</a></strong></td>
-      <td><em><a>HSE Library</a></em></td>
+      <td><img src="logos/whmis_logo.jpeg" width="50"/></td>
+      <td><strong><a href="https://www.canadasafetytraining.com/products/whmis-online-certification.aspx" target="_blank" rel="noopener noreferrer">WHMIS</a></strong></td>
+      <td><em><a href="https://whmis.org/" target="_blank" rel="noopener noreferrer">WHMIS</a></em></td>
       <td>--</td>
-      <td>--</td>
+      <td><img src="logos/swift_logo.png"/></td>
       <td><a href="https://swiftlearning.com/" target="_blank" rel="noopener noreferrer">Swift Learning</a></td>
       <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/WHMIS.pdf">2026</a></em></td>
       <td><a>link</a></td>
     </tr>
         <!-- ML -->
     <tr>
-      <td><img src="logos/coursera.jpg"/></td>
+      <td><img src="logos/coursera.jpg" width="50"/></td>
       <td><strong><a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">Machine Learning</a></strong></td>
       <td><em><a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera</a></em></td>
       <td><a href="https://www.google.com/search?q=Andrew+Ng" target="_blank" rel="noopener noreferrer">Andrew Ng</a></td>
