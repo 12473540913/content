@@ -2,7 +2,18 @@
 
 <table>
   <tbody>
-    <!-- ML -->
+        <!-- WHMIS -->
+    <tr>
+      <td><img /></td>
+      <td><strong><a target="_blank" rel="noopener noreferrer">WHMIS</a></strong></td>
+      <td><em><a>HSE Library</a></em></td>
+      <td>--</td>
+      <td>--</td>
+      <td><a href="https://swiftlearning.com/" target="_blank" rel="noopener noreferrer">Swift Learning</a></td>
+      <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/WHMIS.pdf">2026</a></em></td>
+      <td><a>link</a></td>
+    </tr>
+        <!-- ML -->
     <tr>
       <td><img src="logos/coursera.jpg"/></td>
       <td><strong><a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">Machine Learning</a></strong></td>
@@ -13,7 +24,7 @@
       <td><em>2026</a></em></td>
       <td><a>link</a></td>
     </tr>
-    <!-- AV Associate -->
+        <!-- AV Associate -->
     <tr>
       <td><img src="logos/extron.png"  width="50"/></td>
       <td><strong><a href="https://www.extron.com/article/avassociate">AV Associate</a></strong></td>
@@ -24,7 +35,7 @@
       <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/AV Associate.pdf">2026</a></em></td>
       <td><a>link</a></td>
     </tr>
-    <!-- HR -->
+        <!-- HR -->
     <tr>
       <td><img src="logos/galvanize.jpg" width="50"/></td>
       <td><strong><a href="https://www.hackreactor.com/online-coding-bootcamp/part-time-coding-bootcamp/">Full-Stack Engineering</a></strong></td>
@@ -35,7 +46,7 @@
       <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/Full-Stack Engineering.pdf">2023</a></em></td>
       <td><a>link</a></td>
     </tr>
-    <!-- PBI -->
+        <!-- PBI -->
     <tr>
       <td><img src="logos/edx.jpg"/></td>
       <td><strong><a href="https://www.edx.org/learn/power-bi/davidson-college-analyzing-and-visualizing-data-with-power-bi">Analyzing and Visualizing Data with Power BI</a></strong></td>
@@ -46,7 +57,7 @@
       <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/Analyzing and Visualizing Data with Power BI.pdf">2022</a></em></td>
       <td><a>link</a></td>
     </tr>
-     <!-- Food Handler -->
+         <!-- Food Handler -->
     <tr>
       <td><img src="logos/tcp.png" width="50"/></td>
       <td><strong><a href="https://www.efoodhandlers.com/Food-Handlers/">eFoodHandler Basic Safety Course</strong></td>
